@@ -1,0 +1,14 @@
+C:\Users\vasalil\Desktop\MemoryArrays\MemoryArraysApp\bin\Debug\net10.0\MemoryArraysApp.exe
+C:\Users\vasalil\Desktop\MemoryArrays\MemoryArraysApp\bin\Debug\net10.0\MemoryArraysApp.deps.json
+C:\Users\vasalil\Desktop\MemoryArrays\MemoryArraysApp\bin\Debug\net10.0\MemoryArraysApp.runtimeconfig.json
+C:\Users\vasalil\Desktop\MemoryArrays\MemoryArraysApp\bin\Debug\net10.0\MemoryArraysApp.dll
+C:\Users\vasalil\Desktop\MemoryArrays\MemoryArraysApp\bin\Debug\net10.0\MemoryArraysApp.pdb
+C:\Users\vasalil\Desktop\MemoryArrays\MemoryArraysApp\obj\Debug\net10.0\MemoryArraysApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasalil\Desktop\MemoryArrays\MemoryArraysApp\obj\Debug\net10.0\MemoryArraysApp.AssemblyInfoInputs.cache
+C:\Users\vasalil\Desktop\MemoryArrays\MemoryArraysApp\obj\Debug\net10.0\MemoryArraysApp.AssemblyInfo.cs
+C:\Users\vasalil\Desktop\MemoryArrays\MemoryArraysApp\obj\Debug\net10.0\MemoryArraysApp.csproj.CoreCompileInputs.cache
+C:\Users\vasalil\Desktop\MemoryArrays\MemoryArraysApp\obj\Debug\net10.0\MemoryArraysApp.dll
+C:\Users\vasalil\Desktop\MemoryArrays\MemoryArraysApp\obj\Debug\net10.0\refint\MemoryArraysApp.dll
+C:\Users\vasalil\Desktop\MemoryArrays\MemoryArraysApp\obj\Debug\net10.0\MemoryArraysApp.pdb
+C:\Users\vasalil\Desktop\MemoryArrays\MemoryArraysApp\obj\Debug\net10.0\MemoryArraysApp.genruntimeconfig.cache
+C:\Users\vasalil\Desktop\MemoryArrays\MemoryArraysApp\obj\Debug\net10.0\ref\MemoryArraysApp.dll
